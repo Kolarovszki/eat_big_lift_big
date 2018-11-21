@@ -1,2 +1,2 @@
-# eat_big_lift_big
+# Eat Big Lift Big
 Nutritional guide app
